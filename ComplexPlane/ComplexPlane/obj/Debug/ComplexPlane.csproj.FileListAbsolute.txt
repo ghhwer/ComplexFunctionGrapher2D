@@ -1,0 +1,9 @@
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\bin\Debug\ComplexPlane.exe.config
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\bin\Debug\ComplexPlane.exe
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\bin\Debug\ComplexPlane.pdb
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.csprojResolveAssemblyReference.cache
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.complexGrapherWindow.resources
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.Properties.Resources.resources
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.csproj.GenerateResource.Cache
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.exe
+c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.pdb
