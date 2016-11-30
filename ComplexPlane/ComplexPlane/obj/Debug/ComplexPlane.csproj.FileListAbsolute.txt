@@ -7,3 +7,12 @@ c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\ob
 c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.csproj.GenerateResource.Cache
 c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.exe
 c:\users\caio\documents\visual studio 2015\Projects\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.pdb
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\bin\Debug\ComplexPlane.exe.config
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.exe
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.pdb
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\bin\Debug\ComplexPlane.exe
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\bin\Debug\ComplexPlane.pdb
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.csprojResolveAssemblyReference.cache
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.complexGrapherWindow.resources
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.Properties.Resources.resources
+C:\Users\Caio\Source\Repos\ComplexFunctionGrapher2D\ComplexPlane\ComplexPlane\obj\Debug\ComplexPlane.csproj.GenerateResource.Cache
